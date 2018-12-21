@@ -1,0 +1,8 @@
+python -m pip install --upgrade pip
+python -m pip install tornado-5.1.1-cp35-cp35m-win_amd64.whl
+
+https://api.telegram.org/bot787705332:AAGa3l5v5qWH8cRXpGjn5khkofe_M5m3w2U/getMe
+
+
+https://github.com/eternnoir/pyTelegramBotAPI
+pip install C:\Inst\LIC\Code\pyTelegramBotAPI-master

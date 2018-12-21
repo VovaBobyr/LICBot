@@ -1,0 +1,1 @@
+python "C:\OneDrive\OneDrive - EPAM\Learning\LIC\Code\bot.py"
